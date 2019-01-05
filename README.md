@@ -1,2 +1,4 @@
 # DataStructure
-DataStructure(C++)
+data struct  described with c++ language
+
+
