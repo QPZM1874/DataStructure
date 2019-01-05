@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1507109838 source:/media/qihan/523C5B523C5B3069/Data Structure/DSDemo/c2_LinearList/main.cpp
+	<cstdlib>
+	<iostream>
+	"arrList.h"
+	"lnkList.h"
+
+1507109838 "
+
+1389775108 /media/qihan/523C5B523C5B3069/Data Structure/DSDemo/c2_LinearList/arrList.h
+	<iostream>
+	<string>
+	"myList.h"
+
+1507109527 
+
+1389834412 /media/qihan/523C5B523C5B3069/Data Structure/DSDemo/c2_LinearList/myList.h
+
+1507109527 /media/qihan/523C5B523C5B3069/Data Structure/DSDemo/c2_LinearList/lnkList.h
+	<cstdlib>
+	<iostream>
+	"myList.h"
+
+1507109838 source:e:\data structure\dsdemo\c2_linearlist\main.cpp
+	<cstdlib>
+	<iostream>
+	"arrList.h"
+	"lnkList.h"
+
+1389775108 e:\data structure\dsdemo\c2_linearlist\arrlist.h
+	<iostream>
+	<string>
+	"myList.h"
+
+1389834412 e:\data structure\dsdemo\c2_linearlist\mylist.h
+
+1507109527 e:\data structure\dsdemo\c2_linearlist\lnklist.h
+	<cstdlib>
+	<iostream>
+	"myList.h"
+
+1507561021 source:/media/qihan/523C5B523C5B3069/Data Structure/DSDemo/c2_LinearList/main.cpp
+	<cstdlib>
+	<iostream>
+	"arrList.h"
+	"lnkList.h"
+
+1389775108 /media/qihan/523C5B523C5B3069/Data Structure/DSDemo/c2_LinearList/arrList.h
+	<iostream>
+	<string>
+	"myList.h"
+
+1389834412 /media/qihan/523C5B523C5B3069/Data Structure/DSDemo/c2_LinearList/myList.h
+
+1507560662 /media/qihan/523C5B523C5B3069/Data Structure/DSDemo/c2_LinearList/lnkList.h
+	<cstdlib>
+	<iostream>
+	"myList.h"
+

@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1389926324 source:f:\数据结构\数据结构\dsdemo\c3_stackqueue\calc.cpp
+	"calc.h"
+
+1389926324 f:\数据结构\数据结构\dsdemo\c3_stackqueue\calc.h
+	<iostream>
+	<strstream>
+	"lnkStack.h"
+
+1508229410 f:\数据结构\数据结构\dsdemo\c3_stackqueue\lnkstack.h
+	<cstdlib>
+	<iostream>
+	"Link.h"
+	"myStack.h"
+
+1390091302 f:\数据结构\数据结构\dsdemo\c3_stackqueue\link.h
+
+1390091572 f:\数据结构\数据结构\dsdemo\c3_stackqueue\mystack.h
+
+1508234966 source:f:\数据结构\数据结构\dsdemo\c3_stackqueue\main.cpp
+	<cstdlib>
+	<iostream>
+	"lnkStack.h"
+	"arrStack.h"
+	"calc.h"
+	"lnkQueue.h"
+	"arrQueue.h"
+
+1389920548 f:\数据结构\数据结构\dsdemo\c3_stackqueue\arrstack.h
+	<iostream>
+	"myStack.h"
+
+1390092440 f:\数据结构\数据结构\dsdemo\c3_stackqueue\lnkqueue.h
+	<cstdlib>
+	<iostream>
+	"Link.h"
+	"myQueue.h"
+
+1390092120 f:\数据结构\数据结构\dsdemo\c3_stackqueue\myqueue.h
+
+1390093464 f:\数据结构\数据结构\dsdemo\c3_stackqueue\arrqueue.h
+	<cstdlib>
+	<iostream>
+	"myQueue.h"
+
+1508235096 source:c:\users\math_lzu_yz\desktop\dsdemo\c3_stackqueue\calc.cpp
+	"calc.h"
+
+1389926324 c:\users\math_lzu_yz\desktop\dsdemo\c3_stackqueue\calc.h
+	<iostream>
+	<strstream>
+	"lnkStack.h"
+
+1508229410 c:\users\math_lzu_yz\desktop\dsdemo\c3_stackqueue\lnkstack.h
+	<cstdlib>
+	<iostream>
+	"Link.h"
+	"myStack.h"
+
+1390091302 c:\users\math_lzu_yz\desktop\dsdemo\c3_stackqueue\link.h
+
+1390091572 c:\users\math_lzu_yz\desktop\dsdemo\c3_stackqueue\mystack.h
+
+1508839475 source:c:\users\math_lzu_yz\desktop\dsdemo\c3_stackqueue\main.cpp
+	<cstdlib>
+	<iostream>
+	"lnkStack.h"
+	"arrStack.h"
+	"calc.h"
+	"lnkQueue.h"
+	"arrQueue.h"
+
+1389920548 c:\users\math_lzu_yz\desktop\dsdemo\c3_stackqueue\arrstack.h
+	<iostream>
+	"myStack.h"
+
+1390092440 c:\users\math_lzu_yz\desktop\dsdemo\c3_stackqueue\lnkqueue.h
+	<cstdlib>
+	<iostream>
+	"Link.h"
+	"myQueue.h"
+
+1390092120 c:\users\math_lzu_yz\desktop\dsdemo\c3_stackqueue\myqueue.h
+
+1508838120 c:\users\math_lzu_yz\desktop\dsdemo\c3_stackqueue\arrqueue.h
+	<cstdlib>
+	<iostream>
+	"myQueue.h"
+
+1508235096 source:e:\data structure\dsdemo\c3_stackqueue\calc.cpp
+	"calc.h"
+
+1508902367 e:\data structure\dsdemo\c3_stackqueue\calc.h
+	<iostream>
+	<strstream>
+	"lnkStack.h"
+
+1508905100 e:\data structure\dsdemo\c3_stackqueue\lnkstack.h
+	<cstdlib>
+	<iostream>
+	"Link.h"
+	"myStack.h"
+
+1390091302 e:\data structure\dsdemo\c3_stackqueue\link.h
+
+1390091572 e:\data structure\dsdemo\c3_stackqueue\mystack.h
+
+1508906876 source:e:\data structure\dsdemo\c3_stackqueue\main.cpp
+	<cstdlib>
+	<iostream>
+	"lnkStack.h"
+	"arrStack.h"
+	"calc.h"
+	"lnkQueue.h"
+	"arrQueue.h"
+
+1389920548 e:\data structure\dsdemo\c3_stackqueue\arrstack.h
+	<iostream>
+	"myStack.h"
+
+1390092440 e:\data structure\dsdemo\c3_stackqueue\lnkqueue.h
+	<cstdlib>
+	<iostream>
+	"Link.h"
+	"myQueue.h"
+
+1390092120 e:\data structure\dsdemo\c3_stackqueue\myqueue.h
+
+1508850456 e:\data structure\dsdemo\c3_stackqueue\arrqueue.h
+	<cstdlib>
+	<iostream>
+	"myQueue.h"
+

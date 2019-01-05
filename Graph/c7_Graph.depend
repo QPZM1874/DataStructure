@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1393372568 source:c:\users\math_lzu_yz\desktop\数据结构\数据结构\dsdemo\c7_graph\adjacencylist.cpp
+	"AdjacencyList.h"
+	<iostream>
+	<queue>
+
+1393027420 c:\users\math_lzu_yz\desktop\数据结构\数据结构\dsdemo\c7_graph\adjacencylist.h
+	<iostream>
+	"Graph.h"
+
+1393371180 c:\users\math_lzu_yz\desktop\数据结构\数据结构\dsdemo\c7_graph\graph.h
+
+1393381066 source:c:\users\math_lzu_yz\desktop\数据结构\数据结构\dsdemo\c7_graph\applicationofgraph.cpp
+	<iostream>
+	<queue>
+	<stack>
+	"ApplicationOfGraph.h"
+	"AdjacencyMatrix.h"
+	"MinHeap.h"
+	"ParTree.h"
+
+1393381066 c:\users\math_lzu_yz\desktop\数据结构\数据结构\dsdemo\c7_graph\applicationofgraph.h
+	"Graph.h"
+
+1513073295 c:\users\math_lzu_yz\desktop\数据结构\数据结构\dsdemo\c7_graph\adjacencymatrix.h
+	"Graph.h"
+
+1393372788 c:\users\math_lzu_yz\desktop\数据结构\数据结构\dsdemo\c7_graph\minheap.h
+	<cstdlib>
+
+1393193282 c:\users\math_lzu_yz\desktop\数据结构\数据结构\dsdemo\c7_graph\partree.h
+	"ParTreeNode.h"
+
+1393165796 c:\users\math_lzu_yz\desktop\数据结构\数据结构\dsdemo\c7_graph\partreenode.h
+
+1513071947 source:c:\users\math_lzu_yz\desktop\数据结构\数据结构\dsdemo\c7_graph\main.cpp
+	<iostream>
+	"AdjacencyMatrix.h"
+	"AdjacencyList.h"
+	"ApplicationOfGraph.h"
+
+1513169334 source:e:\data structure\dsdemo\c7_graph\adjacencylist.cpp
+	"AdjacencyList.h"
+	<iostream>
+	<queue>
+
+1513169296 e:\data structure\dsdemo\c7_graph\adjacencylist.h
+	<iostream>
+	"Graph.h"
+
+1513242230 e:\data structure\dsdemo\c7_graph\graph.h
+
+1513226136 source:e:\data structure\dsdemo\c7_graph\applicationofgraph.cpp
+	<iostream>
+	<queue>
+	<stack>
+	"ApplicationOfGraph.h"
+	"AdjacencyMatrix.h"
+	"MinHeap.h"
+	"ParTree.h"
+
+1393381066 e:\data structure\dsdemo\c7_graph\applicationofgraph.h
+	"Graph.h"
+
+1513258464 e:\data structure\dsdemo\c7_graph\adjacencymatrix.h
+	"Graph.h"
+
+1393372788 e:\data structure\dsdemo\c7_graph\minheap.h
+	<cstdlib>
+
+1393193282 e:\data structure\dsdemo\c7_graph\partree.h
+	"ParTreeNode.h"
+
+1393165796 e:\data structure\dsdemo\c7_graph\partreenode.h
+
+1513258400 source:e:\data structure\dsdemo\c7_graph\main.cpp
+	<iostream>
+	"AdjacencyMatrix.h"
+	"AdjacencyList.h"
+	"ApplicationOfGraph.h"
+	"Taohui.h"
+
+1513258218 source:e:\data structure\dsdemo\c7_graph\adjacencymatrix.cpp
+	"AdjacencyMatrix.h"
+	<iostream>
+	<queue>
+
+1513518296 e:\data structure\dsdemo\c7_graph\taohui.h
+	"AdjacencyMatrix.h"
+	<vector>
+	<string>
+	<fstream>
+
+1513169334 source:g:\数据结构\数据结构\dsdemo\c7_graph\adjacencylist.cpp
+	"AdjacencyList.h"
+	<iostream>
+	<queue>
+
+1513169296 g:\数据结构\数据结构\dsdemo\c7_graph\adjacencylist.h
+	<iostream>
+	"Graph.h"
+
+1513242230 g:\数据结构\数据结构\dsdemo\c7_graph\graph.h
+
+1513258218 source:g:\数据结构\数据结构\dsdemo\c7_graph\adjacencymatrix.cpp
+	"AdjacencyMatrix.h"
+	<iostream>
+	<queue>
+
+1513258464 g:\数据结构\数据结构\dsdemo\c7_graph\adjacencymatrix.h
+	"Graph.h"
+
+1513226136 source:g:\数据结构\数据结构\dsdemo\c7_graph\applicationofgraph.cpp
+	<iostream>
+	<queue>
+	<stack>
+	"ApplicationOfGraph.h"
+	"AdjacencyMatrix.h"
+	"MinHeap.h"
+	"ParTree.h"
+
+1393381066 g:\数据结构\数据结构\dsdemo\c7_graph\applicationofgraph.h
+	"Graph.h"
+
+1393372788 g:\数据结构\数据结构\dsdemo\c7_graph\minheap.h
+	<cstdlib>
+
+1393193282 g:\数据结构\数据结构\dsdemo\c7_graph\partree.h
+	"ParTreeNode.h"
+
+1393165796 g:\数据结构\数据结构\dsdemo\c7_graph\partreenode.h
+
+1513258400 source:g:\数据结构\数据结构\dsdemo\c7_graph\main.cpp
+	<iostream>
+	"AdjacencyMatrix.h"
+	"AdjacencyList.h"
+	"ApplicationOfGraph.h"
+	"Taohui.h"
+
+1513518296 g:\数据结构\数据结构\dsdemo\c7_graph\taohui.h
+	"AdjacencyMatrix.h"
+	<vector>
+	<string>
+	<fstream>
+

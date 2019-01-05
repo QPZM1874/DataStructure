@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1511706841 source:/media/qihan/523C5B523C5B3069/Data Structure/DSDemo/c6_Tree/main.cpp
+	<iostream>
+	"Tree.h"
+	"DualtagTree.h"
+	"ParTree.h"
+
+1392632626 /media/qihan/523C5B523C5B3069/Data Structure/DSDemo/c6_Tree/Tree.h
+	<queue>
+	"TreeNode.h"
+
+1511016921 /media/qihan/523C5B523C5B3069/Data Structure/DSDemo/c6_Tree/TreeNode.h
+
+1393193282 /media/qihan/523C5B523C5B3069/Data Structure/DSDemo/c6_Tree/ParTree.h
+	"ParTreeNode.h"
+
+1393165796 /media/qihan/523C5B523C5B3069/Data Structure/DSDemo/c6_Tree/ParTreeNode.h
+
+1511017973 /media/qihan/523C5B523C5B3069/Data Structure/DSDemo/c6_Tree/DualtagTree.h
+	<iostream>
+	<stack>
+	"Tree.h"
+
+1511771043 source:e:\data structure\dsdemo\c6_tree\main.cpp
+	<iostream>
+	"Tree.h"
+	"DualtagTree.h"
+	"ParTree.h"
+
+1511771181 e:\data structure\dsdemo\c6_tree\tree.h
+	<queue>
+	"TreeNode.h"
+
+1511771181 e:\data structure\dsdemo\c6_tree\treenode.h
+
+1511771179 e:\data structure\dsdemo\c6_tree\dualtagtree.h
+	<iostream>
+	<stack>
+	"Tree.h"
+
+1511771181 e:\data structure\dsdemo\c6_tree\partree.h
+	"ParTreeNode.h"
+
+1511771181 e:\data structure\dsdemo\c6_tree\partreenode.h
+
