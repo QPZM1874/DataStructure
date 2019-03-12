@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1513050371 source:e:\data structure\dsdemo\c5_binarytree\main.cpp
+	<iostream>
+	"BinaryTree.h"
+	"BinarySearchTree.h"
+	"MinHeap.h"
+	"HuffmanTree.h"
+	"PriorityQueue.h"
+
+1511539686 e:\data structure\dsdemo\c5_binarytree\binarytree.h
+	<stack>
+	<queue>
+	"BinaryTreeNode.h"
+
+1392160106 e:\data structure\dsdemo\c5_binarytree\binarytreenode.h
+
+1392160916 e:\data structure\dsdemo\c5_binarytree\binarysearchtree.h
+	"BinaryTree.h"
+
+1513603997 e:\data structure\dsdemo\c5_binarytree\minheap.h
+
+1512461983 e:\data structure\dsdemo\c5_binarytree\huffmantree.h
+	"MinHeap.h"
+	"lnkQueue.h"
+
+1390092440 e:\data structure\dsdemo\c5_binarytree\lnkqueue.h
+	<cstdlib>
+	<iostream>
+	"Link.h"
+	"myQueue.h"
+
+1390091302 e:\data structure\dsdemo\c5_binarytree\link.h
+
+1390092120 e:\data structure\dsdemo\c5_binarytree\myqueue.h
+
+1513346704 e:\data structure\dsdemo\c5_binarytree\priorityqueue.h
+	"MinHeap.h"
+

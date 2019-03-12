@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1393632716 source:e:\teaching\democode\dsdemo\c8_internalsort\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"SortMethods.h"
+
+1393570748 e:\teaching\democode\dsdemo\c8_internalsort\insertionsort.h
+	"MaxHeap.h"
+
+1393571689 e:\teaching\democode\dsdemo\c8_internalsort\maxheap.h
+
+1393632743 e:\teaching\democode\dsdemo\c8_internalsort\sortmethods.h
+	"MaxHeap.h"
+
